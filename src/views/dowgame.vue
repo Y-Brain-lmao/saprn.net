@@ -1,13 +1,13 @@
 <template>
-  <h1>hello</h1>
+  <h1>Dowland game</h1>
 </template>
 
 <script>
 export default {
- name:"Forum"
+
 }
 </script>
 
 <style>
 
-</style><!-- Đây là page Forum-->
+</style><!--Code page tải game-->
